@@ -1,6 +1,7 @@
 target/
 .idea/
 *.iml
+api/metrics-api-jaxrs/gen/
 *.swp
 *.js.map
 *.patch
