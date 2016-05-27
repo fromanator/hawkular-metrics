@@ -320,6 +320,7 @@
             <!-- Exclude JAX-RS impl diff files -->
             <exclude>api/diff.txt</exclude>
             <exclude>api/diff-excludes</exclude>
+            <exclude>**/gen/**</exclude>
             <!-- Exclude sample page dependencies -->
             <exclude>samples/rhmap/web/libs/**</exclude>
             <!-- Exclude vim swap files -->
